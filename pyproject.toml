@@ -43,7 +43,7 @@ dependencies = [
     "peft@git+https://github.com/huggingface/peft.git",
     "gradio",
     "openai",
-    "pydantic",
+    "pydantic==1.10.13",
     "sentencepiece",
     "scipy",
     "tenacity",
